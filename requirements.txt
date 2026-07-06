@@ -1,0 +1,17 @@
+fastapi
+uvicorn
+opencv-python
+paddleocr
+paddlepaddle
+sentence-transformers
+sqlalchemy
+psycopg2-binary
+pgvector
+pydantic
+python-multipart
+numpy
+pillow
+lingua-language-detector
+pytest
+alembic
+python-dotenv
